@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const file = fs.readFileSync("src/App.js", "utf8");
+const file = fs.readFileSync("src/App.jsx", "utf8");
 
 let score = 0;
 
